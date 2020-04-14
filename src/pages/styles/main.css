@@ -1,0 +1,19 @@
+section#main {
+    display: flex;
+    height: 83vh;
+    width: 100vw;
+}
+
+div#left {
+    height: 100%;
+    width: 17vw;
+    background-color: rgb(236, 236, 236);
+    border-right: solid rgb(201, 201, 201) 1px;
+}
+
+div#right {
+    height: 100%;
+    width: 83vw;
+    background-color: rgb(236, 236, 236);
+    overflow-y: auto;
+}

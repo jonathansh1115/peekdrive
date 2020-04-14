@@ -1,0 +1,44 @@
+.navitem {
+    cursor: pointer;
+    height: 4vh;
+    padding: 0 0 2px 0;
+}
+
+.navitem:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.section_name {
+    cursor: default;
+    margin: 10px 0 5px 0;
+    padding: 0;
+}
+
+.section_name:hover:hover {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+span.title {
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 1vh;
+    margin-top: 0.5vh;
+    height: 100%;
+}
+
+span.normal {
+    padding-left: 2vh;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover {
+    text-decoration: none;
+    color: black;
+}

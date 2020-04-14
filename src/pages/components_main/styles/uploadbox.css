@@ -1,0 +1,27 @@
+[data-uppy-drag-drop-supported="true"] .uppy-DashboardAddFiles {
+    margin: 7px;
+    height: calc(100% - 14px);
+    border-radius: 3px;
+    border: none;
+}
+
+.uppy-Dashboard-innerWrap {
+    background-color: rgb(236, 236, 236);
+}
+
+.uppy-Dashboard-inner {
+    border: none;
+}
+
+div.mid {
+    display: flex;
+    justify-content: center;
+}
+
+.uppy-DashboardAddFiles-info {
+    display: none;
+}
+
+a.uppy-Dashboard-poweredBy {
+    display: none;
+}
