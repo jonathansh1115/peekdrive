@@ -14,7 +14,7 @@ import {
     ProgressBar
 } from '@uppy/react'
 
-import '@uppy/core/dist/style.css'
+import '@uppy/core/dist/style.css' 
 import '@uppy/dashboard/dist/style.css'
 
 import './styles/uploadbox.css'
