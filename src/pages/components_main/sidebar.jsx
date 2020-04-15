@@ -23,7 +23,7 @@ export default () => {
                 <Link to='/' className='link'>
                     <NavItem className='navitem'>
                         <span className="normal">
-                            <img src={cloud} style={{width:'20px', marginRight:'1.5vh'}} alt='' />
+                            <img src={cloud} style={{width:'22px', marginRight:'1.5vh'}} alt='' />
                             Jonathan' Drive
                         </span>
                     </NavItem>
@@ -32,7 +32,7 @@ export default () => {
                 <Link to='/' className='link'>
                     <NavItem className='navitem'>
                         <span className="normal">
-                            <img src={cloud} style={{width:'20px', marginRight:'1.5vh'}} alt='' />
+                            <img src={cloud} style={{width:'22px', marginRight:'1.5vh'}} alt='' />
                             Sarah's Drive
                         </span>
                     </NavItem>
@@ -47,7 +47,7 @@ export default () => {
                 <Link to='/' className='link'>
                     <NavItem className='navitem'>
                         <span className="normal">
-                            <img src='https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png' style={{width:'20px', marginRight:'1.5vh'}} alt='' />
+                            <img src='https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png' style={{width:'22px', marginRight:'1.5vh'}} alt='' />
                             Google Drive
                         </span>
                     </NavItem>
@@ -56,7 +56,7 @@ export default () => {
                 <Link to='/' className='link'>
                     <NavItem className='navitem'>
                         <span className="normal">
-                            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dropbox_Icon.svg/1200px-Dropbox_Icon.svg.png' style={{width:'20px', marginRight:'1.5vh'}} alt='' />
+                            <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dropbox_Icon.svg/1200px-Dropbox_Icon.svg.png' style={{width:'22px', marginRight:'1.5vh'}} alt='' />
                             Dropbox
                         </span>
                     </NavItem>
